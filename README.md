@@ -3,7 +3,7 @@
 ### Computer Science Student | Backend Developer (.NET) | Competitive Programmer | Open Source Enthusiast
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,js,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,js,git,github" />
 </p>
 
 ---
